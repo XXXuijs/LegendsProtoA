@@ -10401,7 +10401,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 238474744}
-  m_LocalRotation: {x: -0.0020354872, y: 0.0035245249, z: 0.000007174184, w: 0.9999917}
+  m_LocalRotation: {x: -0.0020354867, y: 0.0035245398, z: 0.0000071742124, w: 0.9999917}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -15573,7 +15573,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 680226749}
-  m_LocalRotation: {x: -0.0020354863, y: 0.003524524, z: 0.000007174179, w: 0.9999917}
+  m_LocalRotation: {x: -0.002035489, y: 0.0035245395, z: 0.0000071742206, w: 0.9999917}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -31118,7 +31118,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: -0.0020354863, y: 0.003524524, z: 0.000007174179, w: 0.9999917}
+  m_LocalRotation: {x: -0.002035489, y: 0.0035245395, z: 0.0000071742206, w: 0.9999917}
   m_LocalPosition: {x: -0.10573528, y: 2.5, z: -14.999627}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -47093,7 +47093,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1285456457}
-  m_LocalRotation: {x: 0.04981339, y: 0.0035201514, z: -0.00017556973, w: 0.99875236}
+  m_LocalRotation: {x: 0.04981339, y: 0.00352016, z: -0.00017557017, w: 0.99875236}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -50416,10 +50416,6 @@ MonoBehaviour:
   - {fileID: 216281172}
   - {fileID: 823003956}
   enemyExplosionParticles: {fileID: 4912132913345027125, guid: fdab0a93f34bcb34e95520ef61abf60c, type: 3}
-  currentPatrolPoint: 0
-  slipping: 0
-  facing: 0
-  rb: {fileID: 0}
 --- !u!135 &1336565509
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -64796,7 +64792,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh22062
+  m_Name: pb_Mesh22058
   serializedVersion: 11
   m_SubMeshes:
   - serializedVersion: 2
